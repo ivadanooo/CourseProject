@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SuperApp</string>
+    <string name="start_test">Пройти тест</string>
+    <string name="guide">Путеводитель по вселенным</string>
+    <string name="rate">Оценить приложение</string>
+    <string name="info">О приложении</string>
 </resources>
